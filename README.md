@@ -12,11 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=dhanush-blr&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhanush-blr&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhanush-blr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+> *"The only way to do great work is to love what you do."* – **Steve Jobs**
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
