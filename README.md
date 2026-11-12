@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SpecCraft AI (an AI-assisted Gherkin & Playwright test planner) and RoleRadar<br>👯 I’m looking to collaborate on AI-powered QA tooling, Playwright automation, and local-first web apps<br>🤝 I’m looking for help with scaling end-to-end test automation frameworks<br>🌱 I’m currently learning Playwright, TypeScript, and local LLM agent workflows<br>💬 Ask me about manual QA strategy, AI-assisted test generation, or prompt engineering<br>⚡ Fun fact: I cultivate White Oyster mushrooms at home and run local AI models on a Mac mini M4
+🔭 I’m currently working on SpecCraft AI (an AI-assisted Gherkin & Playwright test planner).<br>👯 I’m looking to collaborate on AI-powered QA tooling, Playwright automation, and local-first web apps<br>🤝 I’m looking for help with scaling end-to-end test automation frameworks<br>🌱 I’m currently learning Playwright, TypeScript, and local LLM agent workflows<br>💬 Ask me about manual QA strategy, AI-assisted test generation, or prompt engineering<br>⚡ Fun fact: I cultivate White Oyster mushrooms at home and run local AI models on a Mac mini M4
 
 
 ## 🌐 Socials:
